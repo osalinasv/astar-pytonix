@@ -1,0 +1,42 @@
+{
+	"Level 1": {
+		"diagram_path": "level_1/diagram.png",
+		"solution_path": "level_1/solution.png",
+		"colors": [
+			[0,   0,   255],
+			[0,   255, 255],
+			[255, 0,   0]
+		]
+	},
+	"Level 2": {
+		"diagram_path": "level_2/diagram.png",
+		"solution_path": "level_2/solution.png",
+		"colors": [
+			[0,   0,   255],
+			[0,   255, 255],
+			[255, 0,   0],
+			[255, 255, 0],
+			[0,   255, 0]
+		]
+	},
+	"Katomix": {
+		"diagram_path": "level_3/diagram.png",
+		"solution_path": "level_3/solution.png",
+		"colors": [
+			[0,   0,   255],
+			[0,   255, 255],
+			[255, 0,   0],
+			[255, 255, 0],
+			[0,   255, 0]
+		]
+	},
+	"Combo Test": {
+		"diagram_path": "combo/diagram.png",
+		"solution_path": "combo/solution.png",
+		"colors": [
+			[0,   0,   255],
+			[0,   255, 255],
+			[255, 0,   0]
+		]
+	}
+}
